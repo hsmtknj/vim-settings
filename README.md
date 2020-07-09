@@ -1,6 +1,9 @@
 # vim-settings
 
-In this repogitory, you can get vim-settings.
+In this repogitory, you can get vim-settings as below.
+
+<img width="578" alt="vim-settings" src="https://user-images.githubusercontent.com/12810094/87058612-3d951800-c243-11ea-8df6-429efb2a3096.png">
+
 
 # How to Set Up
 
