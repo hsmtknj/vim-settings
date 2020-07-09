@@ -12,3 +12,5 @@ In this repogitory, you can get vim-settings.
 2. make "~/.vimrc"
 - copy and paste the contents of ".vimrc" in this repogitory
 
+# References
+- https://qiita.com/reireias/items/230c77b3ff5575832654
