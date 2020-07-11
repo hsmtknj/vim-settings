@@ -69,4 +69,9 @@ call plug#end()
    let g:previm_enable_realtime = 1
  " }}}
 
-        
+" set NERDTree
+execute pathogen#infect()
+" show hidden files in default
+let NERDTreeShowHidden = 1
+" boot NERDTree "ctrl+n"
+map <C-n> :NERDTreeToggle<CR>
